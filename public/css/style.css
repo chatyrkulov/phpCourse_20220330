@@ -24,6 +24,7 @@ body {
 	color:#575652;
 	line-height:22px
 }
+
 .ic, .ic a {
 	border:0;
 	float:right;
@@ -62,6 +63,10 @@ a {
 a:hover {
 	text-decoration:none
 }
+.cssInfo{
+	margin-left: 2rem;
+	font-size: 37px;
+}
 h1 {
 	float:left;
 	padding:44px 0 0 35px
@@ -73,6 +78,7 @@ h2 {
 	line-height:1.2em;
 	letter-spacing:-1px;
 	padding-bottom:12px
+	text-align:center;
 }
 h2 span {
 	font-weight:300
@@ -401,6 +407,7 @@ header {
 }
 .link1:hover {
 	text-decoration:underline
+	color: #ff00f0;
 }
 .quot {
 	margin-top:17px;
